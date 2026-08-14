@@ -1,6 +1,6 @@
 # LeetCode
 
-My solutions to LeetCode problems, written in **C++**, as part of my preparation for technical interviews and strengthening my Data Structures & Algorithms fundamentals.
+My solutions to LeetCode problems, written in **C++**, as part of my preparation for technical interviews and to strengthen my Data Structures & Algorithms fundamentals.
 
 The solutions in this repository are automatically synchronized from LeetCode using **LeetSync**.
 
@@ -10,8 +10,8 @@ The solutions in this repository are automatically synchronized from LeetCode us
 
 | Difficulty | Solved |
 |------------|--------|
-| Easy | ![Easy](https://img.shields.io/badge/Easy-16-green) |
-| Medium | ![Medium](https://img.shields.io/badge/Medium-1-orange) |
+| Easy | ![Easy](https://img.shields.io/badge/Easy-21-green) |
+| Medium | ![Medium](https://img.shields.io/badge/Medium-5-orange) |
 | Hard | ![Hard](https://img.shields.io/badge/Hard-0-red) |
 
 **Current goal:** Build a strong understanding of DSA patterns and eventually solve 300+ problems.
